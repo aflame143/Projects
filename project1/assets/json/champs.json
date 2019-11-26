@@ -1,0 +1,96 @@
+{
+   "champs" : [
+
+
+   {
+      "id":          0,
+      "name":       "Caitlyn",
+      "lane":      "Bottom",
+      "role":       "Marksman",
+      "winrate":      "49%",
+      "description": "A attack damage carry that has the longest default range in the game. She specializes in high single target damage, and can zone well with her traps.",
+      "image":         "caitlyn.png"
+   },
+{
+      "id":          1,
+      "name":       "Trundle",
+      "lane":      "Top/Jungle",
+      "role":       "Bruiser/Tank",
+      "winrate":      "47%",
+      "description": "A very unconvential pick these days that is notorious to being a huge front liner by taking resitances from enemy tank characters. He is very lane dominant with his chomp and health sustain.",
+      "image":         "trundle.png"
+   },
+   {
+      "id":          2,
+      "name":       "Yasuo",
+      "lane":      "Middle/Top",
+      "role":       "Fighter/Assasin",
+      "winrate":      "50%",
+      "description": "A high skill cap champion that relies on knock up abilities to synergize with. He gains double crit chance from his passive and is notorious for being implemented in many pro player montages and wombo combos.",
+      "image":         "yasuo.png"
+   },
+   {
+      "id":          3,
+      "name":       "Kayn",
+      "lane":      "Jungle",
+      "role":       "Fighter/Assasin",
+      "winrate":      "51%",
+      "description": "A notorious jungler with high mobility and the ability to adapt based on what your team needs. He has two forms that the player can choose from. One where he becomes tanky and one where he hits hard.",
+      "image":         "kayn.png"
+   },
+   {
+      "id":          4,
+      "name":       "Thresh",
+      "lane":      "Bottom",
+      "role":       "Tank/Support",
+      "winrate":      "52%",
+      "description": "A champion where you can really show how good you actually are at the game. Has a very well balanced kit with plenty of crowd control and the ability to save allies that are in a pinch.",
+      "image":         "thresh.png"
+   },
+   {
+      "id":          5,
+      "name":       "Vayne",
+      "lane":      "Bottom",
+      "role":       "Marksman/Assasin",
+      "winrate":      "50%",
+      "description": "A attack damage carry that relies very heavily on items and the power to outplay their opponent. Has an ability called silver bolts that allows her to rip through tanks faster than any other champion in the game.",
+      "image":         "vayne.png"
+   },
+   {
+      "id":          6,
+      "name":       "Lux",
+      "lane":      "Middle",
+      "role":       "Mage",
+      "winrate":      "49%",
+      "description": "A mage that does a lot of damage. Has plenty of crowd control abilities within her kit and the capability to one shot enemy carries very early into the game. Also has the potential to reset and burst often.",
+      "image":         "lux.png"
+   },
+   {
+      "id":          7,
+      "name":       "Darius",
+      "lane":      "Top",
+      "role":       "Fighter/Tank",
+      "winrate":      "52%",
+      "description": "A figther that has plenty of sustain built within his kit. Has the ability to reset his ultimate off of kills which could be chained into multiple instant kills for his team. Arguably one of the most terrifying champions to go against.",
+      "image":         "darius.png"
+   },
+   {
+      "id":          8,
+      "name":       "Elise",
+      "lane":      "Jungle",
+      "role":       "Mage/Assasin",
+      "winrate":      "48%",
+      "description": "A spider that can change forms between being human and a spider with two different sets of abilities. In the past she was one of the top tier junglers but has fallen short in more recent times.",
+      "image":         "elise.png"
+   },
+   {
+      "id":          9,
+      "name":       "Janna",
+      "lane":      "Bottom",
+      "role":       "Mage/Support",
+      "winrate":      "51%",
+      "description": "A support that is truly there to keep her attack damage carry player alive. Every ability in her kit is either an ability that provides crowd control or sustain for her allies. Truly a nightmare to play against",
+      "image":         "janna.png"
+   }
+]
+}
